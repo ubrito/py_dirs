@@ -4,8 +4,6 @@
 
 uso: py_dirs.py [-h] -s SITE [-p PORT] -w WORDLIST
 
-Busca por diretórios em em sites através de força bruta.
-
 argumentos:
   
     -s SITE, --site SITE  Site onde será realizada a busca de diretórios.
